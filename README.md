@@ -1,9 +1,9 @@
-## Amazon Sales Dashboard
+# Amazon Sales Dashboard
 Project Overview:
 
 This project presents an interactive Amazon Sales Dashboard built to analyze sales performance, customer behavior, and product trends. The dashboard helps stakeholders quickly understand key metrics and make data-driven business decisions.
 
-# Dashboard Highlights
+**Dashboard Highlights**
 
 The dashboard provides insights into:
 
@@ -15,7 +15,7 @@ c. Sales trends across time periods
 
 d. Customer purchase patterns and order distribution
 
-# Tools & Technologies:
+**Tools & Technologies:**
 
 a. Power BI
 
@@ -25,7 +25,7 @@ c. Data Visualization
 
 d. DAX (basic measures)
 
-# Objective:
+**Objective:**
 
 To transform raw Amazon sales data into a clear, visual, and interactive dashboard that supports sales analysis, performance tracking, and strategic decision-making.
 
@@ -33,10 +33,7 @@ To transform raw Amazon sales data into a clear, visual, and interactive dashboa
 
 AmazonDashboard.pbix – Power BI dashboard file
 
-👤 Author:
+**Author:**
 
 Ishika Jain
 
-✔ Suitable for beginner to intermediate level
-
-If you want, I can:
